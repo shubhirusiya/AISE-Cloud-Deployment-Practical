@@ -6,7 +6,7 @@ st.set_page_config(page_title="AISE Deployment Demo")
 
 # Application heading
 st.title("AI-Enabled Software Engineering")
-st.header("Cloud Deployment Demonstration")
+st.header("My First Cloud Deployment")
 
 # Display information
 st.write("This application is running as a cloud deployment demo.")
